@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 
 ABOUT ME
 
-As I am student of data science , I am passionate about learning  how to master Machine Learning, Deep Learning, Natural Language Processing, Computer Vision and Data Analysis. With over 20 plus repository, I am committed to sharing my knowledge and experience in these areas. My repositories include a wide range of projects, from simple examples to complex applications, all designed to enchance my skills in how to approch the real world problem. With over 1.8k followers on GitHub, I am constantly engaged with the community, sharing insights. If you are interested in Data Science and looking to improve your skills, be sure to check out my repositories.
 
 🔭 I’m Study MS in Data Science from Christ University
 🌱 I’m currently learning Google cloud , AWS Services
