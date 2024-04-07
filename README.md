@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-ABOUT ME 
+ABOUT ME 👯
 Passionate about transforming raw data into actionable insights, 
 I specialize in data exploration and analysis to empower data-driven decision-making.
 With a keen eye for patterns and trends,
