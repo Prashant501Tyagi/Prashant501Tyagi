@@ -54,5 +54,6 @@ I am an aspiring Data Scientist currently pursuing a Master's in Data Science. I
 - Phone: +91-8708245465
 - Email: tparshant501@gmail.com
 - LinkedIn: [https://www.linkedin.com/in/prashant-tyagi-334b21229/]
+- leetCode SQL Problem SOlved : [https://leetcode.com/user4094qg/]
 
 
