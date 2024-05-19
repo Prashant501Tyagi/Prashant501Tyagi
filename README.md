@@ -4,7 +4,7 @@
 I am an aspiring Data Scientist currently pursuing a Master's in Data Science. I am seeking opportunities to apply my skills in Python, Advanced Machine Learning, AWS & Azure in a challenging Data Science role. I am eager to contribute to a team dedicated to advancing data-driven insights and innovations.
 
 ## Skills
-- **Programming Languages:** Python
+- **Programming Languages:** Python, R, Java
 - **Data Visualization:** Power BI, Tableau
 - **Cloud Platforms:** Proficient in Data Analytics services on AWS, Azure & GCP
 - **Problem-Solving and Leadership**
