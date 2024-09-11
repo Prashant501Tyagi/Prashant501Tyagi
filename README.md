@@ -1,59 +1,23 @@
-# Prashant Tyagi
-
-## About Me
+# 💫 About Me:
 I am an aspiring Data Scientist currently pursuing a Master's in Data Science. I am seeking opportunities to apply my skills in Python, Advanced Machine Learning, AWS & Azure in a challenging Data Science role. I am eager to contribute to a team dedicated to advancing data-driven insights and innovations.
 
-## Skills
-- **Programming Languages:** Python, R, Java
-- **Data Visualization:** Power BI, Tableau
-- **Cloud Platforms:** Proficient in Data Analytics services on AWS, Azure & GCP
-- **Problem-Solving and Leadership**
-- **Machine Learning:** Experienced in building Machine Learning models
-- **Data Engineering:** Good hands-on experience with building data pipelines
-- **Web Technologies:** HTML, CSS
-- **Natural Language Processing (NLP) and Computer Vision**
-- **Big Data Technologies:** Hive, PySpark
-- **Databases:** MySQL, PostgreSQL
 
-## Work Experience
-### Data Science Intern at Fun City, Tanzania (Feb 2024 - May 2024)
-- Successfully identified areas for cost optimization, resulting in improved financial performance and resource utilization.
-- Instrumental in increasing sales by 30% through data-driven insights and strategic recommendations.
-- Demonstrated proficiency in Excel, Power BI, Python, and MySQL to drive operational efficiency and achieve business objectives.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mrtyagi001) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prashant-tyagi-334b21229/) 
 
-### Data Science Intern at 360digitmg, Hyderabad (Jun 2023 - Jul 2023)
-- Addressed unplanned machine downtime in pump manufacturing, mitigating productivity loss.
-- Implemented strategic data preprocessing techniques and developed models including XGBoost and LSTM-based Autoencoder.
-- Achieved outstanding results, resulting in significant economic success with cost savings of $1 million.
+# 💻 Tech Stack:
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Prashant501Tyagi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Prashant501Tyagi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant501Tyagi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Projects
-### Large Language Model (LLM) Project
-- Explored prompt engineering techniques and fine-tuning methodologies, including Parameter Efficient Fine Tuning (PEFT), to optimize model performance.
-- Implemented Retrieval Augmented Generation (RAG) using OpenAI's GPT-3.5 Turbo, resulting in the development of a chatbot for online shopping with knowledge grounding capabilities.
-- Developed modular code and a Streamlit application for user interaction, showcasing proficiency in Python, transformers, and other relevant libraries.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Prashant501Tyagi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### Credit Default Risk Prediction Model
-- Conducted data processing and feature engineering on borrower information dataset.
-- Utilized exploratory data analysis techniques to identify key features for model development.
-- Developed a classification model using LightGBM and optimized hyperparameters with Hyperopt.
-- Gained comprehensive understanding of credit risk assessment principles and model optimization methodologies.
+---
+[![](https://visitcount.itsvg.in/api?id=Prashant501Tyagi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Certifications
-- AWS Certified Cloud Practitioner
-- MySQL for Developer
-- https://www.linkedin.com/in/prashant-tyagi-334b21229/details/certifications/
-
-## Education
-### Christ (Deemed to be University), PUNE
-- M.Sc. in Data Science (Graduation Date: May 2024)
-
-### Noida International University, Noida
-- Bachelor in Computer Application (Graduation Date: June 2022)
-
-## Contact
-- Phone: +91-8708245465
-- Email: tparshant501@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/prashant-tyagi-334b21229/]
-- leetCode SQL Problem SOlved : [https://leetcode.com/user4094qg/]
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
